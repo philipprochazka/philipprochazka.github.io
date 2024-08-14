@@ -1,5 +1,9 @@
 {
     "recommendations": [
-        "wscats.eno"
+        "wscats.eno",
+        "rvest.vs-code-prettier-eslint",
+        "yzhang.markdown-all-in-one",
+        "pranaygp.vscode-css-peek",
+        "csstools.postcss"
     ]
 }

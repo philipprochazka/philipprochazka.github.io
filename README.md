@@ -1,12 +1,12 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
+# [Philip Procházka - Resume](https://philipprochazka.github.io)
 
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+[Resume](https://philipprochazka.github.io) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+[![Resume Preview](Screenshot_1.jpg)](https://startbootstrap.github.io/startbootstrap-resume/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://philipprochazka.github.io)**
 
 ## Status
 
@@ -22,15 +22,32 @@ To begin using this template, choose one of the following options to get started
 - Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
 - [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
 
+## Prerequisites
+
+
+- NodeJS
+  : Technically you do need only NodeJS & the rest depends how you do use this template
+
+- Git 
+    : CI & CD environment to get VCS "optional but highly recommended"
+
+- NPM : Node Package manager
+
+
+- Powershell, bash or any other compatible shell :
+ 
 ## Usage
 
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+1. Clone the source files of the theme
+ 
+2.  Navigate into the theme's root directory.
+3.  Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser
+4.   watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+5.  Editing your Html output :
+    Use .\src\pug\Index.pug 
+6.  Editing your Css output :
+    Use .\src\scss\style.scss 
+7.  be kind to yourself and start using nesting
 
 #### npm Scripts
 
@@ -43,7 +60,6 @@ Clone the source files of the theme and navigate into the theme's root directory
 - `npm run start:debug` runs the project in debug mode
 - `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-You must have npm installed in order to use this build environment.
 
 ## Bugs and Issues
 

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="favicon.webp"
+   inkscape:export-xdpi="60"
+   inkscape:export-ydpi="60"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.0228815"
+     inkscape:cx="65.996633"
+     inkscape:cy="58.718809"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.026979658"
+       y="-0.026979658"
+       width="1.0539593"
+       height="1.0539593">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0453552"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:1.07341"
+       id="rect2"
+       width="119.94405"
+       height="119.47622"
+       x="0.027973175"
+       y="0.26189041" />
+    <rect
+       style="fill:none;stroke:#d45500;stroke-opacity:1;filter:url(#filter2)"
+       id="rect1"
+       width="111.523"
+       height="111.523"
+       x="4.2384987"
+       y="4.2384987" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:108.118px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold Italic';text-align:center;text-anchor:middle;fill:none;stroke-width:1.35148"
+       x="83.306114"
+       y="84.808014"
+       id="text1"
+       transform="scale(0.73992906,1.3514809)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="83.306114"
+         y="84.808014"
+         style="font-size:108.118px;fill:#d45500;stroke-width:1.35148">Ph</tspan></text>
+  </g>
+</svg>

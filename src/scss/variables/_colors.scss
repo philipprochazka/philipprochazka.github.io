@@ -7,10 +7,28 @@
 $gray-800: #343a40;
 
 // Override Bootstrap color system
-
-$orange: #bd5d38;
-$purple: #36013f;
-
+$white : #fff;
+$salmon-pink: #ff91a4;
+$magenta: #c779e4;
+$orchid: #da70d6;
+$acacia-green : #caf7b7;
+$caparol-green : #c8fcbc;
+$electric-yellow : #ffff33;
+$laser-lemon-yellow : #ffff66;
+$lemon-yellow : #ffff9f;
+$bangladesh-green : #006a4e;
+$cyan-green : #5effcb;
+$pale-green: #98fb98;
+$dark-sea-green: #9bcd90; 
+$orange : #ff3503;
+$deep-purple : #330066;
+$american-purple : #431c53;
+$russian-violet : #32174d;
+$purple-darkest: #36013f;
+$purple-2nd-darkest : #562b5c;
+$lavender: #77527b;
+$gray-lavender: #987b9a;
 // Override Bootstrap default state colors
-
-$primary: $purple;
+$color-initial: $white;
+$color-primary: $purple-darkest;
+$color-secondary: $gray-800;

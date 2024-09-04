@@ -1,14 +1,14 @@
 {
     "semi": false,
     "singleQuote": true,
-    "tabWidth": 2,
+    "tabWidth": 4,
     "useTabs": false,
     "overrides": [
-      {
-        "files": "*.pug",
-        "options": {
-          "parser": "pug"
+        {
+            "files": "*.pug",
+            "options": {
+                "parser": "pug"
+            }
         }
-      }
     ]
-  }
+}

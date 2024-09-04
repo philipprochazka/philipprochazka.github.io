@@ -1,0 +1,13 @@
+@mixin list-inline {
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -0.5rem;
+    margin-left: -0.5rem;
+}
+
+@mixin list-inline-item {
+    display: inline-block;
+    margin-right: 0.5rem;
+}

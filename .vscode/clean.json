@@ -1,14 +1,12 @@
 {
- "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "node",
-            "request": "clean",
-        "name": "Launch Program",
-        "skipFiles": [
-            "<node_internals>/**"
-        ],
-        "program": "${workspaceFolder}\\scripts\\clean.js"
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "clean",
+      "name": "Launch Program",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\scripts\\clean.js"
     }
-]
+  ]
 }

@@ -1,66 +1,66 @@
 {
-    "title": "Resume",
-    "name": "portfolio_philip_prochazka",
-    "version": "7.0.6",
-    "scripts": {
-        "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
-        "build:assets": "node scripts/build-assets.js",
-        "build:pug": "node scripts/build-pug.js",
-        "build:scripts": "node scripts/build-scripts.js",
-        "build:scss": "node scripts/build-scss.js",
-        "clean": "node scripts/clean.js",
-        "start": "npm run build && node scripts/start.js",
-        "start:debug": "npm run build && node scripts/start-debug.js"
-    },
-    "description": " fork of Start Bootstrap Resume a simple Bootstrap 5 Resume.",
-    "keywords": [
-        "bootstrap",
-        "css",
-        "css3",
-        "sass",
-        "html",
-        "responsive"
-    ],
-    "homepage": "https://philipprochazka.cz",
-    "bugs": {
-        "url": "https://github.com/philipprochazka/philipprochazka.github.io/issues",
-        "email": "ph.prochazka.git@gmail.com"
-    },
-    "license": "MIT",
-    "author": "Philip Procházka",
-    "private": "true",
-    "contributors": [
-        "Philip Procházka (https://philipprochazka.cz/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/philipprochazka/philipprochazka.github.io.git"
-    },
-    "dependencies": {
-        "bootstrap": "5.2.3",
-        "cname": "^0.1.1",
-        "font-awesome": "4.7.0",
-        "google-fonts": "1.0.0",
-        "postcss-utilities": "^0.8.4",
-        "pug": "3.0.3",
-        "stylelint-config-standard-scss": "^13.1.0"
-    },
-    "devDependencies": {
-        "autoprefixer": "10.4.14",
-        "browser-sync": "2.29.1",
-        "chokidar": "3.5.3",
-        "concurrently": "6.3.0",
-        "eslint": "9.9.1",
-        "gh-pages": "^6.1.1",
-        "postcss": "^8.4.44",
-        "postcss-cli": "^11.0.0",
-        "prettier": "2.8.6",
-        "sass": "1.60.0",
-        "shelljs": "0.8.5",
-        "stylelint": "^16.9.0",
-        "stylelint-config-recommended-scss": "^14.1.0",
-        "stylelint-config-standard": "^36.0.1",
-        "upath": "2.0.1",
-        "workbox-cli": "^7.1.0"
-    }
+  "title": "Resume",
+  "name": "portfolio_philip_prochazka",
+  "version": "7.0.6",
+  "scripts": {
+    "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
+    "build:assets": "node scripts/build-assets.js",
+    "build:pug": "node scripts/build-pug.js",
+    "build:scripts": "node scripts/build-scripts.js",
+    "build:scss": "node scripts/build-scss.js",
+    "clean": "node scripts/clean.js",
+    "start": "npm run build && node scripts/start.js",
+    "start:debug": "npm run build && node scripts/start-debug.js"
+  },
+  "description": " fork of Start Bootstrap Resume a simple Bootstrap 5 Resume.",
+  "keywords": [
+    "bootstrap",
+    "css",
+    "css3",
+    "sass",
+    "html",
+    "responsive"
+  ],
+  "homepage": "https://philipprochazka.cz",
+  "bugs": {
+    "url": "https://github.com/philipprochazka/philipprochazka.github.io/issues",
+    "email": "ph.prochazka.git@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Philip Procházka",
+  "private": "true",
+  "contributors": [
+    "Philip Procházka (https://philipprochazka.cz/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philipprochazka/philipprochazka.github.io.git"
+  },
+  "dependencies": {
+    "bootstrap": "5.2.3",
+    "cname": "^0.1.1",
+    "font-awesome": "4.7.0",
+    "google-fonts": "1.0.0",
+    "postcss-utilities": "^0.8.4",
+    "pug": "3.0.3",
+    "stylelint-config-standard-scss": "^13.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.14",
+    "browser-sync": "2.29.1",
+    "chokidar": "3.5.3",
+    "concurrently": "6.3.0",
+    "eslint": "9.9.1",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.44",
+    "postcss-cli": "^11.0.0",
+    "prettier": "^2.8.6",
+    "sass": "1.60.0",
+    "shelljs": "0.8.5",
+    "stylelint": "^16.9.0",
+    "stylelint-config-recommended-scss": "^14.1.0",
+    "stylelint-config-standard": "^36.0.1",
+    "upath": "2.0.1",
+    "workbox-cli": "^7.1.0"
+  }
 }

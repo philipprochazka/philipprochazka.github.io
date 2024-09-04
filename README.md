@@ -24,30 +24,28 @@ To begin using this template, choose one of the following options to get started
 
 ## Prerequisites
 
-
 - NodeJS
   : Technically you do need only NodeJS & the rest depends how you do use this template
 
-- Git 
-    : CI & CD environment to get VCS "optional but highly recommended"
+- Git
+  : CI & CD environment to get VCS "optional but highly recommended"
 
 - NPM : Node Package manager
 
-
 - Powershell, bash or any other compatible shell :
- 
+
 ## Usage
 
 1. Clone the source files of the theme
- 
-2.  Navigate into the theme's root directory.
-3.  Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser
-4.   watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
-5.  Editing your Html output :
-    Use .\src\pug\Index.pug 
-6.  Editing your Css output :
-    Use .\src\scss\style.scss 
-7.  be kind to yourself and start using nesting
+
+2. Navigate into the theme's root directory.
+3. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser
+4. watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+5. Editing your Html output :
+   Use .\src\pug\Index.pug
+6. Editing your Css output :
+   Use .\src\scss\style.scss
+7. be kind to yourself and start using nesting
 
 #### npm Scripts
 
@@ -59,7 +57,6 @@ To begin using this template, choose one of the following options to get started
 - `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
 - `npm run start:debug` runs the project in debug mode
 - `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
-
 
 ## Bugs and Issues
 

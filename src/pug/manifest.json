@@ -1,20 +1,20 @@
 {
-    "name": "Philip Procházka",
-    "short_name": "Philip",
-    "icons": [
-      {
-        "src": "assets\\img\\profile.jpg",
-        "type": "image/png",
-        "sizes": "192x192"
-      },
-      {
-        "src": "assets\\img\\profile.jpg",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
-    "start_url": "index.html",
-    "background_color": "#f4f5f6",
-    "theme_color": "#f4f5f6",
-    "display": "standalone"
-  }
+  "name": "Philip Procházka",
+  "short_name": "Philip",
+  "icons": [
+    {
+      "src": "assets\\img\\profile.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets\\img\\profile.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#f4f5f6",
+  "theme_color": "#f4f5f6",
+  "display": "standalone"
+}
